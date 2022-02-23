@@ -1,0 +1,13 @@
+package com.desmond.sprinboot.springboot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CourseEnrolmentServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
